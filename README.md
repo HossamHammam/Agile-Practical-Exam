@@ -13,3 +13,13 @@
 | Mark Mostafa    | Developer | Sound Engineer      |
 | Asmaa Mohamed   | Developer | UX Designer         |
 | Younis Ali      | Developer | Narrative Designer  |
+
+### Stakeholders
+Distributors
+Producers
+Stockholders
+Gamers
+
+### The Near Vision
+By the end of the first sprint we should have a general Idea of the lore and the story of the game so that we can design the game around the story 
+By the end of the second sprint we should have started the design of the game and getting rough idea about the number of characters needed through the game
