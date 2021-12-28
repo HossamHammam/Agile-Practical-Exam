@@ -1,5 +1,5 @@
 # Agile-Practical-Exam
-## First Person Shooter (FPS) Video Game
+## First Person Shooter (FPS) Video Game - Escape-From-Multiverse
 ### Team members
 | Name            | Role      | Expertise           |
 |-----------------|-----------|---------------------|
