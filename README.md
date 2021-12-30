@@ -17,10 +17,11 @@ This Project is about a game which is First person Shooter where the player will
 | Younis Ali      | Developer | Narrative Designer  |
 
 ### Stakeholders
-Distributors
-Producers
-Stockholders
-Gamers
+| Name         | Role        | Availability | Influence | Engagement       |
+|--------------|-------------|--------------|-----------|------------------|
+| Ahmed Nasser | Stakeholder | High         | Low       | Keep Informed    |
+| Aya Mohamed  | Stakeholder | High         | High      | Actively Engaged |
+| Waled Fathy  | Stakeholer  | Low          | Hugh      | Keep Satisfied   |
 
 ### The Near Vision
 By the end of the first sprint we should have started the design of the game and getting rough idea about the number of characters needed through the game,As for the end of the second sprint we should have Started Working on the Open World of the game.
