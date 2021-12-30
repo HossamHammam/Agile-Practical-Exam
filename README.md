@@ -1,5 +1,7 @@
 # Agile-Practical-Exam
 ## First Person Shooter (FPS) Video Game - Escape-From-Multiverse
+### Project Description 
+This Project is about a game which is First person Shooter where the player will be able to choose one of many different playable characters at the start of the game and the head into an immersive Open world where he can do whatever he wants from main story missions to side character missions to even random encounters around the world the game should be designed with a backstory of marvel Multiverse where the weapons and the abilities should match the lore of the Multiverse.
 ### Team members
 | Name            | Role      | Expertise           |
 |-----------------|-----------|---------------------|
