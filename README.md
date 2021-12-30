@@ -41,3 +41,25 @@ The Average Story Point per Sprint will be around 50 Which should be reasonable 
 
 ### Workflow
 We start at the starting point then the Story is created it is added to the To-Do and when the time comes to be worked on it is added to in-progress Sometimes there is higher priority story comes up so Story in the In-progress can be removed and re added to the To-Do and then added again into the in-progress when time is right also the story could be cancelled as some requirment have changed or if we noticed that it might not be that important anymore , when the work is finished story is moved to testing to make sure it is meeting all the acceptance criteria after the Story is tested it might be re added to the to do list if the story didnot meet the acceptance criteria , Lastly after meeting the acceptance criteria story is moved to Done state.
+### Sprint 1 Document
+####Sprint Goal  
+Making variety of characters to fill the world with later on and making multiple playable characters with different abilities and starting work on customization for each character then making the lore which is based on marvel multiverse and apply the story to the game  
+####Sprint Backlog  
+As a User, I need the game to have a variety of characters:  
+-Making multiple Characters around the world  
+-Assigning multiple choices during dialog for each character  
+As a User, I need the game to have multiple Playable Characters 
+-Make Multiple Playable Character  
+-Make Multiple Special Ability for each character  
+As a User, I need the game to have customization for characters  
+-Making multiple model of every body part  
+-Making algorithm to combine the body parts onto the playable prototype for each character  
+As a User, I need the game to have a Lore Based on Marvel Universe:  
+-Analyzing the story of Marvel Multiverse  
+-Applying the story of Marvel Multiverse  
+####Epics to be delivered  
+Lore Making  
+####What was done last Sprint?  
+This is the first sprint so no previous sprints  
+####What is missing in the last Sprint?  
+This is the first sprint so no previous sprints  
