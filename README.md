@@ -25,7 +25,7 @@ By the end of the first sprint we should have started the design of the game and
 
 
 ### Backlog Items
--As a User, I need the game to have a variety of characters : this will be the most important as the game will be built around the story
+-As a User, I need the game to have a variety of characters : this will be the most important as the game will be built around the story  
 -As a User, I need the game to have multiple Playable Characters : this will be Important as the game will allow the player to have different playstyles to fit every player taste
 -As a User, I need the game to have customisation for characters : every playable character will be customisable where every player can make whatever the character they like look like 
 -As a User, I need the game to have a Lore Based on Marvel Universe : as the lore has a great importance the lore of the game will be researched and applied according to Marvel Universty 
