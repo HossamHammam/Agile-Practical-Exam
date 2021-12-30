@@ -63,3 +63,39 @@ Lore Making
 This is the first sprint so no previous sprints  
 **What is missing in the last Sprint?**  
 This is the first sprint so no previous sprints  
+### Sprint 2 Document
+**Sprint Goal**    
+Finishing what wasn't finished during last sprint which are Finishing Development of Character customization and the lore of the game then start tasks of this sprint by Designing the game World and making it an Open World game then designing an Interactive Environment where the player can act with random events in the world Afterwards Designing Boss Levels where the Player have to fight one of the main antagonist (Villain) of the game which will be according to the lore, the next step will be the design if multiple weapons and weapon effects so every player can find their suitable weapon , Afterwards the Game should have different difficulties where casual player can play the game yet on another difficulty A competitive player can find the game challenging enough , last step will be designing and adding sound effects to the world.  
+**Sprint Backlog**  
+As a User, I need the game to be Open World:  
+-make multiple different game environments  
+-Join multiple different game environments to make one big game environment  
+As a User, I need the game to have Interactive Environment  
+Make various Game events  
+Randomize Game events across the world  
+As a User, I need the game to have Boss Fights  
+Design Boss Model  
+Design Boss Fight Algorithm  
+Integrate Boss Fight Algorithm with the Boss Model   
+As a User, I need the game to have Multiple Weapons with different Effects  
+Design Multiple Weapons  
+Design Multiple Effects for each weapon  
+As a User, I need the game to have multiple difficulties  
+Design Player Damage Scale for each difficulty  
+Design Different Enemy Fighting Algorithms for higher Difficulty  
+As a User, I need the game to have Universal ambient Sound Effects  
+Design Sound Effects  
+Integrate Sound Effects with the game  
+**Add Items from Previous Sprint:**  
+As a User, I need the game to have customization for characters  
+-Finishing Character customization Development  
+As a User, I need the game to have a Lore Based on Marvel Universe:  
+-Finishing Game lore ending  
+**Epics to be delivered**  
+Open World Design  
+Character Design  
+**What was done last Sprint?**  
+Last Sprint We have made variety of characters to fill the world with later on and made multiple playable characters with different abilities and we have started work on customization for each character and finally finished a major part of the lore of the game based on marvel Universe  
+**What is missing in the last Sprint?**  
+Customized characters aren’t yet fully developed, however every Character is playable with the prototype model  
+The Lore is partially developed yet the ending of the game lore is yet to be decided.
