@@ -37,3 +37,5 @@ By the end of the first sprint we should have started the design of the game and
 ### Story Points Estimate Per Sprint
 The Average Story Point per Sprint will be around 50 Which should be reasonable according to my team capabilities with Average  Stories per Sprint
 
+### Workflow
+We start at the starting point then the Story is created it is added to the To-Do and when the time comes to be worked on it is added to in-progress Sometimes there is higher priority story comes up so Story in the In-progress can be removed and re added to the To-Do and then added again into the in-progress when time is right also the story could be cancelled as some requirment have changed or if we noticed that it might not be that important anymore , when the work is finished story is moved to testing to make sure it is meeting all the acceptance criteria after the Story is tested it might be re added to the to do list if the story didnot meet the acceptance criteria , Lastly after meeting the acceptance criteria story is moved to Done state.
